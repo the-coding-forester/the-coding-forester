@@ -9,5 +9,3 @@ I am a trained forester turned software engineer. Previously I managed 2100 acre
 - 🌱 I've been learning JavaScript, React, PostgreSQL and much more. I am especially excited about expanding into TypeScript in the next few months.
 
 - 👯 I’m especially insterest in collaborating on projects that will help improve natural resource management
-
-- 💬 Ask me about wild plants, particularly in the SE USA, no seriously I love plants
